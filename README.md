@@ -1,10 +1,12 @@
 Pertemuan-11
 Profil
 Variable	Isi
-Nama	Wawan Suwandi
-NIM	312310457
+Nama	Michael Nicholas Kardono
+NIM	312310568
 Kelas	TI.23.A.5
 Mata Kuliah	Bahasa Pemrograman
+
+
 Tugas Praktikum
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
