@@ -1,8 +1,9 @@
 Pertemuan-11
+
 Profil
 Variable	Isi
-Nama	Michael Nicholas Kardono
-NIM	312310568
+Nama	Wawan Suwandi
+NIM	312310457
 Kelas	TI.23.A.5
 Mata Kuliah	Bahasa Pemrograman
 
